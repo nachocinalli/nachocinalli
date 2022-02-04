@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Nacho.
 I'm a frontend developer who is passionate about edtech projects
-- 🔭 I’m currently working @ [Kineo](https://kineo.com)
-- 🌱 I’m currently working with [Adapt Learning](https://www.adaptlearning.org/)
-- 💬 Ask me about [SCORM](https://adlnet.gov/projects/scorm/) [xAPI](https://adlnet.gov/projects/xapi/)
+- 🔭 Currently working @ [Kineo](https://kineo.com)
+- 🌱 Learning something every day.
+
 
 <hr>
 <p>
