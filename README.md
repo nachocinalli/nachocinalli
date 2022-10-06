@@ -14,6 +14,6 @@ I'm a frontend developer who is passionate about edtech projects
 </p>
 <hr>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nachocinalli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nachocinalli&show_icons=true&theme=dracula" />
 </p>
   
